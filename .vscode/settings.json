@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "vscode-lua-format.configPath": "lua-format.yaml",
+  "Lua.runtime.version": "LuaJIT",
+  "files.associations": {
+    "*.ldtk": "json",
+    "*.ldtkl": "json"
+  },
+  "Lua.workspace.checkThirdParty": false,
+  "Lua.workspace.library": [
+    "${3rd}/love2d/library"
+  ]
+}
