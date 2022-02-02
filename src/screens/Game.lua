@@ -90,6 +90,7 @@ function GameScreen.new()
 
   local function init_level()
     Signal.clearPattern(".*")
+    add_crawlers()
     add_player()
     add_acid()
     add_items()
