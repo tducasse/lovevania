@@ -3,7 +3,7 @@ A metroidvania template in Love2d.
 
 ## Setup
 ## Prerequisites
-- [Love2d 11.3](https://github.com/love2d/love/releases/download/11.3/love-11.3-win64.exe) (11.4 is not compatible with [love.js](https://github.com/Davidobot/love.js) yet)
+- [Love2d 11.4](https://github.com/love2d/love/releases/download/11.4/love-11.4-win64.exe)
 - a recent enough `make` (can be installed with [chocolatey](https://community.chocolatey.org/) on windows for example; more info [here](https://community.chocolatey.org/packages/make))
 - if you plan on deploying to itch.io, [butler](https://itch.io/docs/butler/) - run `butler login` before you use the Makefile
 - if you plan on bundling for web, a compatible version of Node.js, since we use [love.js](https://github.com/Davidobot/love.js).
