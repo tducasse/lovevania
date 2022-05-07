@@ -11,5 +11,5 @@ MUSIC = { DEFAULT = "assets/music.ogg", SECRET = "assets/secret.ogg" }
 
 RES_X = 64
 RES_Y = 64
-WIN_X = 1024
+WIN_X = 64*8
 WIN_Y = WIN_X / (RES_X / RES_Y)
